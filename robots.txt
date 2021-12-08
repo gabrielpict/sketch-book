@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: htpps://gabrielpict.github.io/sketch-book/sitemapx.xml
